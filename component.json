@@ -1,0 +1,17 @@
+{
+  "name": "filepicker-mycomputer",
+  "repo": "matthewp/filepicker-mycomputer",
+  "description": "Filepicker engine for local computer access",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js",
+    "template.js"
+  ],
+  "styles": [
+    "filepicker-mycomputer.css"
+  ]
+}
